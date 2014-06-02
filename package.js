@@ -101,7 +101,7 @@ module.exports = {
     // `devDependencies` block for the way to include dependencies.
     "dependencies": {
         // "dougs_vow": "*",
-        "fs-extra": "0.8.x"
+        // "fs-extra": "0.8.x"
         
         // "colors": "*",
     },
@@ -117,6 +117,7 @@ module.exports = {
     // * **doccoh**: Documentation utility for this code.
     "devDependencies": {
         // "doccoh": "*"
+        "fs-extra": "0.8.x",
         "docco": "*"
     },
     // Should this package be prevented from accidental publishing by npm?

@@ -23,15 +23,14 @@
   "engines": {
     "node": ">= 0.6.x"
   },
-  "dependencies": {
-    "fs-extra": "0.8.x"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "fs-extra": "0.8.x",
     "docco": "*"
   },
   "private": false,
   "scripts": {
     "docs": "node node_modules/.bin/docco src/crypto-utils.js"
   },
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
