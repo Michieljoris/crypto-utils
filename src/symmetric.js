@@ -13,9 +13,9 @@ function encrypt(string, pwd, iv) {
         encrypted+= cipher.final('hex');
     } catch(e) {
         error =e;
-        console.log(e);
+        // console.log(e);
     }
-    return { encrypted: encrypted, e: error };
+    return { encrypted: encrypted, error: error };
     return encrypted;
 }
  
@@ -28,9 +28,9 @@ function decrypt(string, pwd, iv) {
         decrypted += decipher.final('utf8');
     } catch(e) {
         error =e;
-        console.log(e);
+        // console.log(e);
     }
-    return { decrypted: decrypted, e: error };
+    return { decrypted: decrypted, error: error };
 }
 
 // function createPwd() {
@@ -49,7 +49,11 @@ module.exports = {
 // var iv = '12345678';
 // iv += iv;
 // console.log(iv, iv.length);
-// var e = encrypt('bla', pwd, iv);
-// console.log(e);
-// console.log(decrypt(e.encrypted, pwd, iv));
+// var loginToken = "lWpzgD2I2iu09y0LBU2veoMXcQvJMsBubVlvBAcSCmA";
+
+// var fileMD5 = "11195fe740babc6a2860285fb0c622af";
+// var e = encrypt(JSON.stringify({l:loginToken,f:fileMD5}), pwd);
+// console.log('http://localhost:9000/test.txt?' + e.encrypted);
+// console.log(decrypt(e.encrypted, pwd));
+
 
