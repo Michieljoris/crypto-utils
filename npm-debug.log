@@ -1,0 +1,124 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/michieljoris/bin/node',
+1 verbose cli   '/home/michieljoris/bin/npm',
+1 verbose cli   'publish' ]
+2 info using npm@1.4.9
+3 info using node@v0.10.28
+4 verbose node symlink /home/michieljoris/bin/node
+5 verbose publish [ '.' ]
+6 verbose cache add [ '.', null ]
+7 verbose cache add name=undefined spec="." args=[".",null]
+8 verbose parsed url { protocol: null,
+8 verbose parsed url   slashes: null,
+8 verbose parsed url   auth: null,
+8 verbose parsed url   host: null,
+8 verbose parsed url   port: null,
+8 verbose parsed url   hostname: null,
+8 verbose parsed url   hash: null,
+8 verbose parsed url   search: null,
+8 verbose parsed url   query: null,
+8 verbose parsed url   pathname: '.',
+8 verbose parsed url   path: '.',
+8 verbose parsed url   href: '.' }
+9 silly lockFile 3a52ce78- .
+10 verbose lock . /home/michieljoris/.npm/3a52ce78-.lock
+11 verbose tar pack [ '/home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz',
+11 verbose tar pack   '.' ]
+12 verbose tarball /home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+13 verbose folder .
+14 info prepublish crypto-utils@0.1.3
+15 silly lockFile 1f1177db-tar tar://.
+16 verbose lock tar://. /home/michieljoris/.npm/1f1177db-tar.lock
+17 silly lockFile f22944bf-77429-0-6299924766644835-tmp-tgz tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+18 verbose lock tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz /home/michieljoris/.npm/f22944bf-77429-0-6299924766644835-tmp-tgz.lock
+19 silly lockFile 1f1177db-tar tar://.
+20 silly lockFile 1f1177db-tar tar://.
+21 silly lockFile f22944bf-77429-0-6299924766644835-tmp-tgz tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+22 silly lockFile f22944bf-77429-0-6299924766644835-tmp-tgz tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+23 verbose tar unpack /home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+24 silly lockFile 09f5632d-s-npm-crypto-utils-0-1-3-package tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package
+25 verbose lock tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package /home/michieljoris/.npm/09f5632d-s-npm-crypto-utils-0-1-3-package.lock
+26 silly lockFile f22944bf-77429-0-6299924766644835-tmp-tgz tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+27 verbose lock tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz /home/michieljoris/.npm/f22944bf-77429-0-6299924766644835-tmp-tgz.lock
+28 silly gunzTarPerm modes [ '755', '644' ]
+29 silly gunzTarPerm extractEntry package.json
+30 silly gunzTarPerm extractEntry .npmignore
+31 silly gunzTarPerm extractEntry README.md
+32 silly gunzTarPerm extractEntry package.js
+33 silly gunzTarPerm extractEntry src/symmetric.js
+34 silly lockFile 09f5632d-s-npm-crypto-utils-0-1-3-package tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package
+35 silly lockFile 09f5632d-s-npm-crypto-utils-0-1-3-package tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package
+36 silly lockFile f22944bf-77429-0-6299924766644835-tmp-tgz tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+37 silly lockFile f22944bf-77429-0-6299924766644835-tmp-tgz tar:///home/michieljoris/tmp/npm-7175-JUQIeuDO/1409889677429-0.6299924766644835/tmp.tgz
+38 silly lockFile 3a52ce78- .
+39 silly lockFile 3a52ce78- .
+40 silly publish { name: 'crypto-utils',
+40 silly publish   description: 'Crypto utils --------',
+40 silly publish   homepage: 'https://github.com/michieljoris/crypto-utils',
+40 silly publish   keywords: [],
+40 silly publish   repository:
+40 silly publish    { type: 'git',
+40 silly publish      url: 'https://github.com/michieljoris/crypto-utils.git' },
+40 silly publish   author:
+40 silly publish    { name: 'Michiel van Oosten',
+40 silly publish      email: 'mail@axion5.net',
+40 silly publish      url: 'http://www.axion5.net/' },
+40 silly publish   licenses:
+40 silly publish    [ { type: 'MIT',
+40 silly publish        url: 'http://github.com/michieljoris/crypto-utils/blob/master/LICENSE.txt' } ],
+40 silly publish   main: 'src/symmetric.js',
+40 silly publish   bin: {},
+40 silly publish   engines: { node: '>= 0.6.x' },
+40 silly publish   dependencies: {},
+40 silly publish   devDependencies: { 'fs-extra': '0.8.x', docco: '*' },
+40 silly publish   private: false,
+40 silly publish   scripts: { docs: 'node node_modules/.bin/docco src/crypto-utils.js' },
+40 silly publish   version: '0.1.3',
+40 silly publish   readme: 'Crypto utils\n--------\n\n\n* https://gist.github.com/ericchen/3081970\n* http://en.wikipedia.org/wiki/Initialization_vector\n',
+40 silly publish   readmeFilename: 'README.md',
+40 silly publish   bugs: { url: 'https://github.com/michieljoris/crypto-utils/issues' },
+40 silly publish   _id: 'crypto-utils@0.1.3',
+40 silly publish   _shasum: '3c5528f92d24d5119a7b575cb462a574a0d34eb2',
+40 silly publish   _from: '.' }
+41 verbose url raw crypto-utils
+42 verbose url resolving [ 'https://registry.npmjs.org/', './crypto-utils' ]
+43 verbose url resolved https://registry.npmjs.org/crypto-utils
+44 info trying registry request attempt 1 at 14:01:17
+45 http PUT https://registry.npmjs.org/crypto-utils
+46 http 403 https://registry.npmjs.org/crypto-utils
+47 verbose headers { date: 'Fri, 05 Sep 2014 04:01:28 GMT',
+47 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R14B04)',
+47 verbose headers   'content-type': 'application/json',
+47 verbose headers   'cache-control': 'max-age=60',
+47 verbose headers   'content-length': '2770',
+47 verbose headers   'accept-ranges': 'bytes',
+47 verbose headers   via: '1.1 varnish',
+47 verbose headers   'x-served-by': 'cache-syd1623-SYD',
+47 verbose headers   'x-cache': 'MISS',
+47 verbose headers   'x-cache-hits': '0',
+47 verbose headers   'x-timer': 'S1409889687.539776,VS0,VE729',
+47 verbose headers   'keep-alive': 'timeout=10, max=50',
+47 verbose headers   connection: 'Keep-Alive' }
+48 error publish Failed PUT 403
+49 error Error: forbidden cannot modify pre-existing version: 0.1.3
+49 error old={"name":"crypto-utils","description":"Crypto utils --------","homepage":"https://github.com/michieljoris/crypto-utils","keywords":[],"repository":{"type":"git","url":"https://github.com/michieljoris/crypto-utils.git"},"author":{"name":"Michiel van Oosten","email":"mail@axion5.net","url":"http://www.axion5.net/"},"licenses":[{"type":"MIT","url":"http://github.com/michieljoris/crypto-utils/blob/master/LICENSE.txt"}],"main":"src/symmetric.js","bin":{},"engines":{"node":">= 0.6.x"},"dependencies":{},"devDependencies":{"fs-extra":"0.8.x","docco":"*"},"private":false,"scripts":{"docs":"node node_modules/.bin/docco src/crypto-utils.js"},"version":"0.1.3","bugs":{"url":"https://github.com/michieljoris/crypto-utils/issues"},"_id":"crypto-utils@0.1.3","_shasum":"1dca3f9eb88ea27e89cbacd7e5775e036a51548a","_from":".","_npmVersion":"1.4.9","_npmUser":{"name":"michieljoris","email":"mail@axion5.net"},"maintainers":[{"name":"michieljoris","email":"mail@axion5.net"}],"dist":{"shasum":"1dca3f9eb88ea27e89cbacd7e5775e036a51548a","tarball":"http://registry.npmjs.org/crypto-utils/-/crypto-utils-0.1.3.tgz"}}
+49 error new={"name":"crypto-utils","description":"Crypto utils --------","homepage":"https://github.com/michieljoris/crypto-utils","keywords":[],"repository":{"type":"git","url":"https://github.com/michieljoris/crypto-utils.git"},"author":{"name":"Michiel van Oosten","email":"mail@axion5.net","url":"http://www.axion5.net/"},"licenses":[{"type":"MIT","url":"http://github.com/michieljoris/crypto-utils/blob/master/LICENSE.txt"}],"main":"src/symmetric.js","bin":{},"engines":{"node":">= 0.6.x"},"dependencies":{},"devDependencies":{"fs-extra":"0.8.x","docco":"*"},"private":false,"scripts":{"docs":"node node_modules/.bin/docco src/crypto-utils.js"},"version":"0.1.3","readme":"Crypto utils\u000a--------\u000a\u000a\u000a* https://gist.github.com/ericchen/3081970\u000a* http://en.wikipedia.org/wiki/Initialization_vector\u000a","readmeFilename":"README.md","bugs":{"url":"https://github.com/michieljoris/crypto-utils/issues"},"_id":"crypto-utils@0.1.3","_shasum":"3c5528f92d24d5119a7b575cb462a574a0d34eb2","_from":".","_npmVersion":"1.4.9","_npmUser":{"name":"michieljoris","email":"mail@axion5.net"},"maintainers":[{"name":"michieljoris","email":"mail@axion5.net"}],"dist":{"shasum":"3c5528f92d24d5119a7b575cb462a574a0d34eb2","tarball":"http://registry.npmjs.org/crypto-utils/-/crypto-utils-0.1.3.tgz"}}: crypto-utils
+49 error     at RegClient.<anonymous> (/media/212gig/opt/node-v0.10.28-linux-x64/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:273:14)
+49 error     at Request._callback (/media/212gig/opt/node-v0.10.28-linux-x64/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:211:65)
+49 error     at Request.self.callback (/media/212gig/opt/node-v0.10.28-linux-x64/lib/node_modules/npm/node_modules/request/request.js:123:22)
+49 error     at Request.EventEmitter.emit (events.js:98:17)
+49 error     at Request.<anonymous> (/media/212gig/opt/node-v0.10.28-linux-x64/lib/node_modules/npm/node_modules/request/request.js:893:14)
+49 error     at Request.EventEmitter.emit (events.js:117:20)
+49 error     at IncomingMessage.<anonymous> (/media/212gig/opt/node-v0.10.28-linux-x64/lib/node_modules/npm/node_modules/request/request.js:844:12)
+49 error     at IncomingMessage.EventEmitter.emit (events.js:117:20)
+49 error     at _stream_readable.js:919:16
+49 error     at process._tickCallback (node.js:419:13)
+50 error If you need help, you may report this *entire* log,
+50 error including the npm and node versions, at:
+50 error     <http://github.com/npm/npm/issues>
+51 error System Linux 3.11.0-12-generic
+52 error command "/home/michieljoris/bin/node" "/home/michieljoris/bin/npm" "publish"
+53 error cwd /media/212gig/mysrc/javascript/crypto-utils
+54 error node -v v0.10.28
+55 error npm -v 1.4.9
+56 verbose exit [ 1, true ]
