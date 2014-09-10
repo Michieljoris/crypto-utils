@@ -22,24 +22,24 @@
 8 verbose parsed url   href: '.' }
 9 silly lockFile 3a52ce78- .
 10 verbose lock . /home/michieljoris/.npm/3a52ce78-.lock
-11 verbose tar pack [ '/home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz',
+11 verbose tar pack [ '/home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz',
 11 verbose tar pack   '.' ]
-12 verbose tarball /home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
+12 verbose tarball /home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
 13 verbose folder .
 14 info prepublish crypto-utils@0.1.3
 15 silly lockFile 1f1177db-tar tar://.
 16 verbose lock tar://. /home/michieljoris/.npm/1f1177db-tar.lock
-17 silly lockFile ee54f843-53844-0-4480143077671528-tmp-tgz tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
-18 verbose lock tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz /home/michieljoris/.npm/ee54f843-53844-0-4480143077671528-tmp-tgz.lock
+17 silly lockFile 98d20ba3-1642-0-14208258618600667-tmp-tgz tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
+18 verbose lock tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz /home/michieljoris/.npm/98d20ba3-1642-0-14208258618600667-tmp-tgz.lock
 19 silly lockFile 1f1177db-tar tar://.
 20 silly lockFile 1f1177db-tar tar://.
-21 silly lockFile ee54f843-53844-0-4480143077671528-tmp-tgz tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
-22 silly lockFile ee54f843-53844-0-4480143077671528-tmp-tgz tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
-23 verbose tar unpack /home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
+21 silly lockFile 98d20ba3-1642-0-14208258618600667-tmp-tgz tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
+22 silly lockFile 98d20ba3-1642-0-14208258618600667-tmp-tgz tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
+23 verbose tar unpack /home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
 24 silly lockFile 09f5632d-s-npm-crypto-utils-0-1-3-package tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package
 25 verbose lock tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package /home/michieljoris/.npm/09f5632d-s-npm-crypto-utils-0-1-3-package.lock
-26 silly lockFile ee54f843-53844-0-4480143077671528-tmp-tgz tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
-27 verbose lock tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz /home/michieljoris/.npm/ee54f843-53844-0-4480143077671528-tmp-tgz.lock
+26 silly lockFile 98d20ba3-1642-0-14208258618600667-tmp-tgz tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
+27 verbose lock tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz /home/michieljoris/.npm/98d20ba3-1642-0-14208258618600667-tmp-tgz.lock
 28 silly gunzTarPerm modes [ '755', '644' ]
 29 silly gunzTarPerm extractEntry package.json
 30 silly gunzTarPerm extractEntry .npmignore
@@ -48,8 +48,8 @@
 33 silly gunzTarPerm extractEntry src/symmetric.js
 34 silly lockFile 09f5632d-s-npm-crypto-utils-0-1-3-package tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package
 35 silly lockFile 09f5632d-s-npm-crypto-utils-0-1-3-package tar:///home/michieljoris/.npm/crypto-utils/0.1.3/package
-36 silly lockFile ee54f843-53844-0-4480143077671528-tmp-tgz tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
-37 silly lockFile ee54f843-53844-0-4480143077671528-tmp-tgz tar:///home/michieljoris/tmp/npm-27155-AVdcmdEu/1410098053844-0.4480143077671528/tmp.tgz
+36 silly lockFile 98d20ba3-1642-0-14208258618600667-tmp-tgz tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
+37 silly lockFile 98d20ba3-1642-0-14208258618600667-tmp-tgz tar:///home/michieljoris/tmp/npm-13640-9rFgZ3lL/1410322351642-0.14208258618600667/tmp.tgz
 38 silly lockFile 3a52ce78- .
 39 silly lockFile 3a52ce78- .
 40 silly publish { name: 'crypto-utils',
@@ -83,20 +83,20 @@
 41 verbose url raw crypto-utils
 42 verbose url resolving [ 'https://registry.npmjs.org/', './crypto-utils' ]
 43 verbose url resolved https://registry.npmjs.org/crypto-utils
-44 info trying registry request attempt 1 at 23:54:14
+44 info trying registry request attempt 1 at 14:12:31
 45 http PUT https://registry.npmjs.org/crypto-utils
 46 http 403 https://registry.npmjs.org/crypto-utils
-47 verbose headers { date: 'Sun, 07 Sep 2014 13:54:28 GMT',
+47 verbose headers { date: 'Wed, 10 Sep 2014 04:12:33 GMT',
 47 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R14B04)',
 47 verbose headers   'content-type': 'application/json',
 47 verbose headers   'cache-control': 'max-age=60',
 47 verbose headers   'content-length': '2770',
 47 verbose headers   'accept-ranges': 'bytes',
 47 verbose headers   via: '1.1 varnish',
-47 verbose headers   'x-served-by': 'cache-syd1621-SYD',
+47 verbose headers   'x-served-by': 'cache-syd1620-SYD',
 47 verbose headers   'x-cache': 'MISS',
 47 verbose headers   'x-cache-hits': '0',
-47 verbose headers   'x-timer': 'S1410098068.131516,VS0,VE194',
+47 verbose headers   'x-timer': 'S1410322353.588684,VS0,VE191',
 47 verbose headers   'keep-alive': 'timeout=10, max=50',
 47 verbose headers   connection: 'Keep-Alive' }
 48 error publish Failed PUT 403
