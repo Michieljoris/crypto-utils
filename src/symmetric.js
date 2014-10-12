@@ -46,6 +46,9 @@ module.exports = {
 // pwd += pwd;
 // pwd += pwd;
 // console.log(pwd, pwd.length);
+
+// console.log(pwd, pwd.length, encrypt('facebook', pwd).encrypted);
+// console.log(pwd, pwd.length, encrypt('facebooka', pwd).encrypted);
 // var iv = '12345678';
 // iv += iv;
 // console.log(iv, iv.length);

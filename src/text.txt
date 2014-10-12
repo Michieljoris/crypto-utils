@@ -1,0 +1,85 @@
+In 2008, my study partner Hernán Amiune and I had finished studying computer engineering at Catholic University of Córdoba Argentina.
+
+During our last years at university, we had done some internships in companies such as HP, IBM, and Intel. It was the moment we realized there was a mistake in their work methods.
+
+We couldn’t understand why people without technical knowledge had to tell programmers “what” to do and, furthermore, they had to supervise “how” programmers did it.
+1
+So, when we created Project eMT, a comparison search engine for Latin America, we decided to work in a different way: without project managers. Six years later, we operate in Chile, Brazil, Mexico, and Colombia together with 34 engineers that are part of our team, and we still work without traditional management structures and work weeks, and have managed to grow our annual revenue by 204%.
+1
+Here’s how we do it.
+
+No bosses
+
+At big tech companies we frequently observed how programmers would do bad work in a short period of time and receive praise from their bosses. Over time, this leads to the standard: “let’s program with low quality but as fast as possible.”
+
+As Google CEO Larry Page used to say: “Engineers shouldn’t be supervised by project managers with limited technical knowledge.”
+
+On the other hand, as programmers, we used to find it profoundly annoying that our bosses would set meetings with us at any moment based on their needs. This may seem striking, but it’s essential.
+
+A developer needs an average of four consecutive hours of uninterrupted work to be able to carry out a good quality job with significant advances. Consequently, the ideal day would be for a programmer to work in the morning from 9am to 1pm and in the afternoon from 2pm to 6pm, in order to reach maximum productivity.
+
+If for example, our boss assigns a meeting at 11am, then the morning is lost since I have to get ready for the meeting, attend the meeting, greet everybody, discuss the topics, then I have to go back to my desk and pick up exactly from where I had left off, see what I was doing and keep on programming. With all these activities, the whole morning is practically lost.
+
+As Paul Graham, entrepreneur, programmer and also founder of YCombinator used to say: “For a programmer, the cost of attending a meeting is always higher.”
+1
+No office
+
+The truth is that when we started, having a workspace wasn’t an option. When we were taking our first steps we didn’t have the resources to rent an office.
+
+The scenario stayed the same until the second year when we were finally able to move to an excellent office with the amenities that we had always dreamt of (like ping pong tables, video games, private and personal chef, gym equipment and huge TVs).
+
+This stage only lasted eight months until we decided to go back to working remotely for a variety of reasons.
+
+To start with, the time we waste by commuting to the office whether it is by public transportation or by driving our own cars is on average one hour to get there and one hour to get back home. That is to say, if we work nine hours a day, we are wasting an extra 22% of time just on commuting. We also have to add the cost of the rent and the cost of commuting to and from the office.
+1
+But the economic reason is not the most important one, nor the main reason for going back to working without an office; instead it was the physical and mental tiredness that commuting causes. That time could be used to achieve a much more important goal like spending time be with your family.
+1
+Lastly, we work today in five countries and we believe that the habit of working remotely will allow us to continue growing.
+
+Four-day work week
+
+Reducing the length of our work week is a relatively new aspect for our startup; we implemented it almost 2 years ago and until now it has been an excellent decision.
+
+In the industrial era, there was a belief that the more you worked in the, the better the results were; that’s why we have to work 5 days a week and be with our families just 2 days.
+
+In a technology project like ours, more doesn’t always mean better.
+
+What we need is that engineers are satisfied with their jobs and motivated to do them well. We are not interested in the amount they produce; quality is what is essential.
+2
+This is strongly aligned with the goal of hiring the best programmers. Indicating that we just work four days a week is an exclusive differential: it allows us to hire only the best people and have a spectacular level of retention.
+
+According to our own experience, an excellent programmer can do in half the time and with better quality what an average programmer does.
+
+What’s more, we are tired of listening to and reading about the balance between work and family. For us, this is the best answer to this historical problem: you can now be with your family 50% more of time.
+
+Step by step
+
+As a starting point, we eliminated meetings completely (one-on-one and group meetings). From that moment on, every internal communication is done through written text. There are no calls, physical meetings, nor teleconferences.
+This may sound disruptive, but we have been doing it for internal communication for three years now and it’s something totally normal for us.
+
+Indeed, after reading about how a manufacturing enterprise saved an equivalent to eliminating 200 job positions through reducing the duration of meetings to only 30 minutes and with a maximum of seven people per meeting, we realized we were on the right track.
+
+Furthermore, there is no more agenda; nobody can include a meeting in our work day or organize our schedule. The job is organized by each one of us based on our timetables and knowledge.
+In this way, any type of communication, being exclusively through text, becomes an asynchronous communication. This means that we can program (code) fully focused for four consecutive hours without being interrupted and then, when we have the time, we can advance and answer.
+
+Another essential factor was that we eliminated email communication; we definitely got tired of using the email as a to-do list. The email wasn’t designed for this, let alone designed with enough efficiency to perform that role.
+We changed from a work methodology that had historically worked through a “push” mechanism to one with a “pull” mechanism. This basically means that nobody can send me a job-related email to tell me what to do (push). I am the one now who selects my next tasks (pull).
+
+Both the meetings and emails elimination is supported by a tool we developed internally and we called “iAutonomous”. It’s simply a SAAS (Software as a Service) app that allows each member of our startup to participate in and create a new project or task.
+
+Like this, we will all see a list of activities in progress inside our enterprise and we can create and participate in those tasks that need our help in order to be successfully completed.
+
+In this tool, we can see what each of the members is doing in real time. We don’t need a boss telling us what to do or if we did it correctly or incorrectly. We are all programmers and we know exactly how our peers work.
+
+Be picky
+
+I personally consider that there is just one main aspect that has been essential to us: the quality of the engineers we hire. The most important thing lies in their capacity of being proactive.
+
+The people that work with us are entrepreneurs themselves—they don’t need someone evaluating whether they work or not.
+
+What is even more problematic is that those engineers that are not proactive cause great damage to our working culture. High-performance engineers will only want to work with another one that works even more and that does things correctly (meaning, writes great code!).
+1
+We have made mistakes hiring programmers that didn’t have that profile. But in days—weeks at the latest—we have managed to detect this. I suggest you don’t hesitate to end work relationships that are not working out; it’s not good for neither of the parties. If they need to be supervised, they will surely find their place in any other company (with managers).
+
+I recommend starting with these new habits from the first day. This will be much easier than changing them later.
+1
